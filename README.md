@@ -6,3 +6,5 @@
 
 ### 4장. [*행동 선택 알고리즘*](https://hyss.notion.site/4-Behavior-Selection-Algorithm-b359c02e71424c3188a8a7abb017fd96)
 
+### 5장. [*구조적 아키텍처의 일반적인 트릭](https://hyss.notion.site/5-Structural-Architecture-Common-Tricks-of-the-Trade-e922224a150f4d8cb94376003d973b98)
+
