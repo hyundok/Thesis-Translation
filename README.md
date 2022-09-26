@@ -10,3 +10,5 @@
 Common Tricks of the Trade*](https://hyss.notion.site/5-Structural-Architecture-Common-Tricks-of-the-Trade-e922224a150f4d8cb94376003d973b98), K. Dill
 
 + 6장 [*The Behavior Tree Starter Kit*](https://hyss.notion.site/6-The-Behavior-Tree-Starter-Kit-2f143bbe360e4f2380bcd1db113e06e5), Alex J. Champandard, P. Dunstan
+
++ 7장 [*Real-World Behavior Trees in Script*]()
