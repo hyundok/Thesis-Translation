@@ -17,4 +17,4 @@ Common Tricks of the Trade*](https://hyss.notion.site/5-Structural-Architecture-
 
 + 9장 [*An Introduction to Utility Theory*](https://hyss.notion.site/9-An-Introduction-to-Utility-Theory-bd6b5f733cfa4975ad4fed570074bb8e), David “Rez” Graham
 
-+ 10장 [*https://hyss.notion.site/10-Building-Utility-Decisions-into-Your-Existing-Behavior-Tree-ef83f54cc40a422a9b496aaf10f0ecc7*], Bill. M
++ 10장 [*Building Utility Decisions into Your Existing Behavior Tree*](https://hyss.notion.site/10-Building-Utility-Decisions-into-Your-Existing-Behavior-Tree-ef83f54cc40a422a9b496aaf10f0ecc7), Bill. M
